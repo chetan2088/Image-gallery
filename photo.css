@@ -3,6 +3,7 @@ img {
   margin: 1.2%;
 }
 nav {
+  color: blue;
   font-family: 'raleway', sans-serif;
   font-size: 1.5em; 
   text-transform: uppercase;
